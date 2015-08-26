@@ -1,0 +1,17 @@
+{
+  "name": "mailcheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-dir": "^0.1.9",
+    "say": "^0.6.0",
+    "walk": "^2.3.9",
+    "xml2js": "^0.4.10"
+  }
+}
