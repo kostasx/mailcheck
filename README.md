@@ -21,6 +21,6 @@ SEARCHES IN ```/Users/{ USERNAME }/Library/Mail/V2/``` FOR ```INBOX.mbox/``` AND
 
 ### TODO
 
-• Check at regular intervals
-• Read and filter messages based on rules and sender names
-• Translate speakable text in multiple languages
+* Check at regular intervals
+* Read and filter messages based on rules and sender names
+* Translate speakable text in multiple languages
