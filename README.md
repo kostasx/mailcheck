@@ -12,6 +12,9 @@
 Setup mailcheck.config
 
 ```
+$ git clone git@github.com:kostasx/mailcheck.git
+$ cd mailcheck
+$ npm install
 $ coffee mailcheck.coffee
 ```
 
